@@ -2,6 +2,7 @@
 **부제 : 입소문이 영상 콘텐츠의 흥행에 미치는 영향**  
 * https://github.com/movie-catcher/data-analysis.git
 * https://github.com/movie-catcher/youtube-data-scraping.git
+* https://github.com/movie-catcher/modeling.git
 ### 바이럴 지수란?
 SNS 플랫폼에서의 관련 컨텐츠로 인한 입소문으로 영화의 관객수에 미치는 영향을 점수로 표현한 것
 
